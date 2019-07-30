@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://wooduk.github.io/portfolio/portfolio/</loc>
+    <lastmod>2019-04-05T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://wooduk.github.io/portfolio/</loc>
     <lastmod>2019-04-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://wooduk.github.io/</loc>
-    <lastmod>2019-04-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://wooduk.github.io/portfolio/bsn-cycling/</loc>
+    <loc>http://wooduk.github.io/portfolio/portfolio/bsn-cycling/</loc>
     <lastmod>2019-04-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://wooduk.github.io/about/</loc>
+    <loc>http://wooduk.github.io/portfolio/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://wooduk.github.io/contact/</loc>
+    <loc>http://wooduk.github.io/portfolio/contact/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://wooduk.github.io/portfolio/jupyterlab/</loc>
+    <loc>http://wooduk.github.io/portfolio/portfolio/jupyterlab/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://wooduk.github.io/portfolio/katine/</loc>
+    <loc>http://wooduk.github.io/portfolio/portfolio/katine/</loc>
     <lastmod>2011-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://wooduk.github.io/categories/</loc>
+    <loc>http://wooduk.github.io/portfolio/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://wooduk.github.io/tags/</loc>
+    <loc>http://wooduk.github.io/portfolio/tags/</loc>
     <priority>0</priority>
   </url>
   

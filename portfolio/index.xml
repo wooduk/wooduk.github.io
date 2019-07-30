@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Stephen Wood</title>
-    <link>http://wooduk.github.io/portfolio/</link>
+    <link>http://wooduk.github.io/portfolio/portfolio/</link>
     <description>Recent content in Portfolios on Stephen Wood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 05 Apr 2019 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="http://wooduk.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://wooduk.github.io/portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tutorial: Mapping cycling times to BSN Vlaskamp</title>
-      <link>http://wooduk.github.io/portfolio/bsn-cycling/</link>
+      <link>http://wooduk.github.io/portfolio/portfolio/bsn-cycling/</link>
       <pubDate>Fri, 05 Apr 2019 18:25:22 +0530</pubDate>
       
-      <guid>http://wooduk.github.io/portfolio/bsn-cycling/</guid>
+      <guid>http://wooduk.github.io/portfolio/portfolio/bsn-cycling/</guid>
       <description>&lt;p&gt;My experiment in using Google Distance Matrix API and Observable Notebooks to map out cycling times to BSN campus Vlaskamp.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tutorial: JupyterLab Analytics on Google Cloud Platform</title>
-      <link>http://wooduk.github.io/portfolio/jupyterlab/</link>
+      <link>http://wooduk.github.io/portfolio/portfolio/jupyterlab/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>http://wooduk.github.io/portfolio/jupyterlab/</guid>
+      <guid>http://wooduk.github.io/portfolio/portfolio/jupyterlab/</guid>
       <description>&lt;p&gt;The $300 worth of credits seemed like a good reason to try out Google Cloud Platform for my prototype analytics stack. This is tutorial on how to set that up.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Open Data: Katine Style!</title>
-      <link>http://wooduk.github.io/portfolio/katine/</link>
+      <link>http://wooduk.github.io/portfolio/portfolio/katine/</link>
       <pubDate>Sat, 05 Nov 2011 19:44:32 +0530</pubDate>
       
-      <guid>http://wooduk.github.io/portfolio/katine/</guid>
+      <guid>http://wooduk.github.io/portfolio/portfolio/katine/</guid>
       <description>&lt;p&gt;Whenever things seem to be getting too complicated I tried to think back to this example of open data from the Katine project in Uganda.&lt;/p&gt;</description>
     </item>
     
