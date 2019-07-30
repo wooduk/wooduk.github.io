@@ -509,7 +509,11 @@ OFF-CANVAS SIDEBAR BEHAVIOUR
     position: absolute;
     top: 0;
     width: 50%;
+  
     /* 6 columns */
+  }
+  .sidebar-offcanvas h1 {
+    font-size:0px;
   }
 }
 /*
@@ -1317,7 +1321,7 @@ STYLE SWITCHER FOR DEMO
 }
 /* navbar */
 .navbar {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", "Roboto", Helvetica, Arial, sans-serif;
   min-height: 80px;
   margin-bottom: 0;
   border-top: none;
