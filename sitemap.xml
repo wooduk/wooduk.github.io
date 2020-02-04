@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wooduk.github.io/portfolio/jupyterlab/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wooduk.github.io/portfolio/lifilter/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wooduk.github.io/portfolio/clc-pt1/</loc>
     <lastmod>2019-11-13T18:25:22+05:30</lastmod>
   </url>
@@ -37,11 +47,6 @@
   <url>
     <loc>https://wooduk.github.io/contact/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wooduk.github.io/portfolio/jupyterlab/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>

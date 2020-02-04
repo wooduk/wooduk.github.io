@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Tutorial: JupyterLab Analytics on Google Cloud Platform</title>
+      <link>https://wooduk.github.io/portfolio/jupyterlab/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://wooduk.github.io/portfolio/jupyterlab/</guid>
+      <description>&lt;p&gt;The $300 worth of credits seemed like a good reason to try out Google Cloud Platform for my prototype analytics stack. This is tutorial on how to set that up.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Filtering LinkedIn Job Alerts with Serverless Python.</title>
+      <link>https://wooduk.github.io/portfolio/lifilter/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://wooduk.github.io/portfolio/lifilter/</guid>
+      <description>&lt;p&gt;How I built myself a service that filters LinkedIn job alerts by description language.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Command-Line Cartography for a UK Election</title>
       <link>https://wooduk.github.io/portfolio/clc-pt1/</link>
       <pubDate>Wed, 13 Nov 2019 18:25:22 +0530</pubDate>
@@ -36,15 +54,6 @@
       
       <guid>https://wooduk.github.io/portfolio/us-elec-2018/</guid>
       <description>&lt;p&gt;Understanding the how the models faired in predicting voteshare in the 2018 mid-terms&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tutorial: JupyterLab Analytics on Google Cloud Platform</title>
-      <link>https://wooduk.github.io/portfolio/jupyterlab/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://wooduk.github.io/portfolio/jupyterlab/</guid>
-      <description>&lt;p&gt;The $300 worth of credits seemed like a good reason to try out Google Cloud Platform for my prototype analytics stack. This is tutorial on how to set that up.&lt;/p&gt;</description>
     </item>
     
     <item>
