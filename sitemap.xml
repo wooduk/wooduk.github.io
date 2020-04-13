@@ -55,6 +55,11 @@
   </url>
   
   <url>
+    <loc>https://wooduk.github.io/snippets/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wooduk.github.io/categories/</loc>
     <priority>0</priority>
   </url>
